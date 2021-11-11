@@ -1,0 +1,4 @@
+﻿  http.cpp
+C:\Users\zeron\source\network\httpServer\http\http.cpp(78,18): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\zeron\source\network\httpServer\http\http.cpp(159,65): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  http.vcxproj -> C:\Users\zeron\source\network\httpServer\x64\Debug\http.exe
